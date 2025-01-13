@@ -33,6 +33,9 @@
 
 </div>
 
-
+<div>
+  github_user_name: rafaballerini
+          svg_out_path: dist/github-contribution-grid-snake.svg
+</div>
 
       
