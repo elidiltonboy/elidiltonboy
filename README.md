@@ -9,7 +9,7 @@
 
 
 <div>
-  <a href="https://github.com/eliboy/github-readme-stats">
+  <a href="https://github.com/elidiltonboy/github-readme-stats">
     <img height="180em" align="center" src= "https://github-readme-stats.vercel.app/api?username=eliboy&show_icons=true&theme=transparent" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
