@@ -8,9 +8,9 @@
 
 
 <div>
-<a href = "http://github.com/eliboy">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+
+<a href="https://github.com/eliboy/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eliboy" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
