@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Elidilton Boy 👋
 
 
-- 🔭 Em curso Front-end
+- 🔭 Front-end
 - 🌱 Python
 - 💬 Contate-me no email: elidiltonboy25@gmail.com
 - 😄 Pronomes: Ele / Dele
