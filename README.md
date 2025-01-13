@@ -1,17 +1,26 @@
 ## Olá! Eu sou o Elidilton Boy 👋
 
 
-- 🔭 Hoje finalizando curso front-end
-- 🌱 Estudando JavaScript
+- 🔭 Em curso Front-end
+- 🌱 Python
 - 💬 Contate-me no email: elidiltonboy25@gmail.com
 - 😄 Pronomes: Ele / Dele
 
-<div>
-  < a href ="https://github/eliboy">
 
-<img heigth= "180em" src="https://github-readme-stats.vercel.app/api?username-el;idiltonboy&show_icons-true&theme=dracula&include_all_commits-true&count_private-true"/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<a href = "http://github.com/eliboy">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
 </div>
+
+
+
 
 
 <div style="display: inline_block"><br>
