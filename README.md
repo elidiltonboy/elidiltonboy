@@ -60,7 +60,7 @@
     <img align="center" alt="Hotjar" height="30" width="40" src="https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white"">
   </div>
 
-<!-- Skills: Analytics -->
+<!-- Skills: Designer -->
   <div style="flex-basis: 48%;">
     <h3>Badge | 🖍 Design</h3>
     <img align="center" alt="Hotjar" height="30" width="40" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
@@ -70,8 +70,10 @@
 ##
  
 <div> 
+
   <a href="https://www.linkedin.com/in/eliboy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:elidiltonboy25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/ELIBOY" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 
 </div>
 
