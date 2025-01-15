@@ -8,9 +8,27 @@
 - 🌱 Python
 - 💬 Contate-me no email: elidiltonboy25@gmail.com
 - 😄 Pronomes: Ele / Dele
+- <details>
+  <summary>👨‍💻 Mais sobre mim</summary>
 
+  - 💬 Tenho 42 anos, atualmente moro no Brasil. Tenho inglês básico e experiência com HTML, CSS, JavaScript, Python, Analytic Social Media. Também sou Editor de fotografia no lightroom, tráfego pago com habilidades importantes como criatividade, capacidade analítica, gerenciamento de comunidade e mídia social.
 
-<div>
+  - ⚡ Eu gosto de ler, seja um bom livro, bilbia, tecnologia (T.I), sou musico guitarrista, baterista, assim como assistir filmes e jogar futebol! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e resolução de problemas. \o/
+</details>
+
+###
+
+<div> 
+ <a href="https://www.facebook.com/share/15KZTWNbuS/?mibextid=wwXIfr" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  <a href="https://www.linkedin.com/in/eliboy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:elidiltonboy25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/eliboy" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+
+</div>
+
+ ###
+
+  
   <a href="https://github.com/elidiltonboy/github-readme-stats">
     <img height="180em" align="center" src= "https://github-readme-stats.vercel.app/api?username=elidiltonboy&show_icons=true&theme=transparent" />
   </a>
@@ -20,6 +38,8 @@
 </div>
 
 <div style="display: inline_block"><br>
+
+## 🔥 Skills
   
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
@@ -33,7 +53,6 @@
    
  </div>
 
-
 <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
@@ -43,7 +62,6 @@
   <img align="center" alt="Prettier" height="30" width="135" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
     
   </div>
-
 
 <!-- Skills: Analytics -->
   <div style="flex-basis: 48%;">
@@ -60,14 +78,8 @@
   </div>
   
 ##
- 
-<div> 
- <a href="https://www.facebook.com/share/15KZTWNbuS/?mibextid=wwXIfr" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-  <a href="https://www.linkedin.com/in/eliboy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:elidiltonboy25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/eliboy" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 
-</div>
+
 
 <!-- GIF -->
 <p align="left">
