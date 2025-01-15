@@ -14,12 +14,13 @@
   <a href="https://github.com/elidiltonboy/github-readme-stats">
     <img height="180em" align="center" src= "https://github-readme-stats.vercel.app/api?username=elidiltonboy&show_icons=true&theme=transparent" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/elidiltonboy/convoychat">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elidiltonboy&layout=compact&langs_count=8&theme=transparent&card_width=320" />
   </a>
 </div>
 
 <div style="display: inline_block"><br>
+  
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
@@ -37,7 +38,9 @@
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="Node.js" height="30" width="135" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="VScode" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+   <img align="center" alt="Eslint" height="30" width="135" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
+  <img align="center" alt="Prettier" height="30" width="135" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
     
   </div>
 
