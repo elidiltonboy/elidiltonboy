@@ -67,7 +67,6 @@
   <div style="flex-basis: 48%;">
     <h3>Badge | 🖍 Design</h3>
     <img align="center" alt="Ligthroom" height="30" width="155" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
-<img align="center" alt="Udemy" height="30" width="90" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white'\">
   </div>
   
 ##
