@@ -10,7 +10,7 @@
 - <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 42 anos, atualmente moro no Brasil. Tenho inglês básico e experiência com HTML, CSS, JavaScript, Python, Analytic Social Media. Também sou Editor de fotografia no lightroom, tráfego pago com habilidades importantes como criatividade, capacidade analítica, gerenciamento de comunidade e mídia social.
+  - 💬 Tenho 42 anos, atualmente moro no Brasil. Tenho inglês básico e pós graduando em Python & IA. Também sou Editor de fotografia no lightroom e tenho curso de Analytic Social Media em tráfego pago com habilidades importantes como criatividade, capacidade analítica, gerenciamento de comunidade e mídia social.
 
   - ⚡ Eu gosto de ler, bons livros como, biblia, tecnologia (T.I),avanços tecnologicos, sou musico guitarrista, baterista, assim como assistir filmes e jogar futebol! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e resolução de problemas.
 </details>
