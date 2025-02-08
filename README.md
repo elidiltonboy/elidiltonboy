@@ -4,8 +4,7 @@
     <summary><h1 style="display: inline-block">Olá! Eu sou o Elidilton Boy 👋</h1></summary>
 </div>
 
-- 🔭 Front-end
-- 🌱 Python
+- 🌱 Python & IA
 - 💬 Contate-me no email: elidiltonboy25@gmail.com
 - 😄 Pronomes: Ele / Dele
 - <details>
